@@ -1,0 +1,48 @@
+Movie Title: Liar Liar 
+Number of Ratings: 87
+Average Rating: 3.34
+--------------------------
+Movie Title: Silence of the Lambs, The 
+Number of Ratings: 40
+Average Rating: 4.1
+--------------------------
+Movie Title: Star Wars 
+Number of Ratings: 88
+Average Rating: 4.32
+--------------------------
+Movie Title: Apollo 13 
+Number of Ratings: 27
+Average Rating: 3.74
+--------------------------
+Movie Title: Men in Black 
+Number of Ratings: 45
+Average Rating: 3.51
+--------------------------
+Movie Title: Dead Man Walking 
+Number of Ratings: 31
+Average Rating: 4.06
+--------------------------
+Movie Title: Titanic 
+Number of Ratings: 72
+Average Rating: 4.21
+--------------------------
+Movie Title: Toy Story 
+Number of Ratings: 60
+Average Rating: 4
+--------------------------
+Movie Title: Empire Strikes Back, The 
+Number of Ratings: 37
+Average Rating: 4.14
+--------------------------
+Movie Title: Pulp Fiction 
+Number of Ratings: 46
+Average Rating: 3.93
+--------------------------
+Movie Title: Full Monty, The 
+Number of Ratings: 61
+Average Rating: 4.02
+--------------------------
+Movie Title: Star Trek: First Contact 
+Number of Ratings: 43
+Average Rating: 3.84
+--------------------------
